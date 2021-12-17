@@ -48,6 +48,9 @@ main {
     border-radius: 4px;
     flex: 1;
     margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .long {
@@ -69,3 +72,8 @@ main {
 .container2 {
     flex: 2;
 } */
+.display_text{
+    color: white;
+    size: 140%;
+    padding: 1g0px 10px;
+}
